@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PCIDriverTest", "PCIDriverTest\PCIDriverTest.vcproj", "{F24773A5-F212-4ADA-B5AD-11C5FC1F3AC2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PCIDriver", "PCIDriver\PCIDriver.vcproj", "{9E7B0EF7-5792-4A10-B7A1-3E086395B248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24773A5-F212-4ADA-B5AD-11C5FC1F3AC2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F24773A5-F212-4ADA-B5AD-11C5FC1F3AC2}.Debug|Win32.Build.0 = Debug|Win32
+		{F24773A5-F212-4ADA-B5AD-11C5FC1F3AC2}.Release|Win32.ActiveCfg = Release|Win32
+		{F24773A5-F212-4ADA-B5AD-11C5FC1F3AC2}.Release|Win32.Build.0 = Release|Win32
+		{9E7B0EF7-5792-4A10-B7A1-3E086395B248}.Debug|Win32.ActiveCfg = Release|Win32
+		{9E7B0EF7-5792-4A10-B7A1-3E086395B248}.Debug|Win32.Build.0 = Release|Win32
+		{9E7B0EF7-5792-4A10-B7A1-3E086395B248}.Release|Win32.ActiveCfg = Release|Win32
+		{9E7B0EF7-5792-4A10-B7A1-3E086395B248}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
