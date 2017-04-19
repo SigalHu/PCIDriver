@@ -1,7 +1,7 @@
 /*
  * 定义全局变量
  *
- * @author 胡续俊
+ * @author SigalHu
  * @date 2015/12/21
  */
 

@@ -1,7 +1,7 @@
 /*
  * pci6455驱动相关函数对外接口
  *
- * @author 胡续俊
+ * @author SigalHu
  * @date 2015/12/21
  */
 
