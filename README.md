@@ -8,3 +8,5 @@
 * PCIDriverTest工程：PCI驱动测试软件，对PCIDriver工程生成的dll进行测试
 ## 实现功能
 支持中断收发、寄存器读写与DMA传输等操作
+## DMA传输
+![image](https://github.com/SigalHu/PCIDriver/raw/master/img/DMA写操作.png)
