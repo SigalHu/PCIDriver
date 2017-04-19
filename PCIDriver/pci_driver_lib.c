@@ -370,7 +370,7 @@ DWORD Interrupt_1(int deviceX)
 	{
 	case 0:
 		hDev = hDev_0;
-		dwStatus = PCI_DRIVER_IntEnable(hDev, DiagIntHandler_0);// hu 不停调用DiagIntHandler_0()来诊断中断
+		dwStatus = PCI_DRIVER_IntEnable(hDev, DiagIntHandler_0);
 		break;
 	case 1:
 		hDev = hDev_1;
